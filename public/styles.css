@@ -48,7 +48,8 @@ body {
   padding: 0.7rem;
   border-bottom-right-radius: 15px 3px;
   border-bottom-left-radius: 3px 15px;
-  border: solid 3px transparent;
+  border: none;
+  outline: none;
   border-bottom: dashed 3px #6efd81;
   font-family: "Architects Daughter", cursive;
   font-size: 1rem;
